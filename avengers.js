@@ -1,10 +1,10 @@
 const avengers = [
     {
-    name: "Captain America",
-    image: "captain_america.jpg",
-    powers: "super solider, superhuman strength, master of hand-to-hand combat and military fighting",
-    actor: "Chris Evans",
-    first_appearance: "Captain America Comics #1 (March 1941)"
+        name: "Captain America",
+        image: "captain_america.jpg",
+        powers: "super solider, superhuman strength, master of hand-to-hand combat and military fighting",
+        actor: "Chris Evans",
+        first_appearance: "Captain America Comics #1 (March 1941)"
     },
     {
         name: "Thor",
